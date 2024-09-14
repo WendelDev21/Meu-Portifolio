@@ -534,7 +534,7 @@ footer ul li a {
         gap: 1.5rem;
     }
     .sobre-container img {
-        width: 90vw;
+        width: 60vw;
         height: auto;
     }
     .info-box h3 {
@@ -595,7 +595,7 @@ footer ul li a {
         grid-template-columns: 300px;
     }
     .project-card {
-        padding: 1rem;
+        padding: 0.9rem;
     }
     .project-card img {
         width: 70vw;
@@ -617,13 +617,9 @@ footer ul li a {
         display: none;
     }
 
-    /* Footer */
-    footer ul {
-        flex-direction: column;
-        gap: 0.5rem;
+    .inutil {
+        display: none;
     }
-    footer ul li {
-        font-size: 0.9rem;
-    }
+    
 }
 
